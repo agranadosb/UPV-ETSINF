@@ -1,0 +1,11 @@
+-- Seguir las instrucciones --
+
+Instalar git
+
+Abrir la consola de comandos (Windows o linux) y poner los comandos:
+
+git clone https://github.com/agranadosb/UPV-ETSINF.git
+
+Para actualizar los archivos hay que entrar dentro de la carpeta UPV-ETSINF y utilizar el comando:
+
+git pull
